@@ -8,3 +8,4 @@ As Part of this Labs, we are performing following tasks.
 2. Setting Firewall rules
 3. Creation of Azure Database for MySQL 
 4. Update MYSQL Database as code
+  
